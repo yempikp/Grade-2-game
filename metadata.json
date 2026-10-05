@@ -1,0 +1,6 @@
+{
+  "name": "Grade 2 Super Quest",
+  "description": "An interactive educational adventure game covering Grade 2 Math, Reading & Language Arts, Science, and Social Studies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
